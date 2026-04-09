@@ -1,11 +1,5 @@
-
-
 const Page = () => {
-  return (
-    <div>
-      <h1 className="text-2xl underline">Bookified</h1>
-    </div>
-  );
+  return <div>PAGE</div>;
 };
 
 export default Page;
