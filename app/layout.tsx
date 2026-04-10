@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { IBM_Plex_Serif, Mona_Sans } from "next/font/google";
 
-import Navbar from "@/components/Navbar";
+import Navbar from "../components/Navbar";
 import "./globals.css";
 
 const ibmPlexSerif = IBM_Plex_Serif({
